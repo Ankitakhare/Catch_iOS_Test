@@ -12,7 +12,7 @@ User can test it in their own personal device as well by connecting it accepting
 
 Spend time on app as well the detail about the architechture and process how i have developed the app .************************************
 
-
+I have worked on max 8 to 10 Hours  for this test. Once i got this assignment devided the steps to implement it. 
 The App uses VIPER architecture. The intent was reusability and loosely coupled code. It also showcases protocol oriented programming. 
 The protocols used are :- 
 
